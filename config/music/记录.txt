@@ -1,0 +1,22 @@
+xsc1=地球的碎片Audio town02
+xsc2=地球的碎片Audio town03
+xsc3=地球的碎片Audio town12
+xsc4=地球的碎片Audio town13
+xsc5=地球的碎片Audio town15
+xsc6=地球的碎片Audio town21
+xsc7=囧魂   IN-欢乐1
+xsc8=囧魂   IN-欢乐4
+xsc9=囧魂   IN-欢乐6
+xsc10=囧魂   IN-欢乐7
+xsc11=囧魂   IN-欢乐8
+
+
+fight1 = ARPG 紧张 危机 Dark Future
+fight2 = ARPG 战斗 Dusk Signet
+fight3 = ARPG 战斗 激情 Gear of Fate
+fight4 = ARPG 战斗 激情 Lunaga Arena
+fight5 = ARPG 战斗 深情 Heart of Protess
+
+
+
+att1 = 银色的命运女神 se_07
