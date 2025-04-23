@@ -68,7 +68,7 @@ public class KaiShi extends JFrame {
 			public void actionPerformed(ActionEvent e) {
 				String name = welcome.getjTextField().getText().trim();
 				if ("".equals(name)) {
-					welcome.getJl2().setText("你丫的，没名字啊！");
+					welcome.getJl2().setText("必须输入名字！");
 					return;
 				} else {
 					welcome.getPro().setProperty("name", name);
